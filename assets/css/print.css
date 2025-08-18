@@ -1,9 +1,9 @@
-/* External Print Stylesheet */
-
-/* body {
+/* CSS Print */
+/* Cambia background color y color fuente al imprimir */
+body {
     background-color: white;
 }
 
 article {
     color: black;
-} */
+}
